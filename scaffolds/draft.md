@@ -1,7 +1,6 @@
 ---
-title: {{ yet }}
+title: {{ title }}
 comments: true
 categories:
-- Yet
 tags:
 ---
